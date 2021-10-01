@@ -1,0 +1,9 @@
+# Example Podcast
+
+[우버이츠 클론 6주 완성반](https://nomadcoders.co/faq/challenge/nuber-eats)을 진행하면서 만든 예제...
+
+회사 업무를 하면서 진행하다 보니 물리적인 시간이 많이 부족하다.
+
+TODO : 코드 정리 ... 
+
+일단 과제 제출용으로....
