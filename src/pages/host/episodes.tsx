@@ -45,6 +45,7 @@ export const Episodes = () => {
         id: Number(params.id),
       },
     },
+    fetchPolicy: "network-only"
   });
   const onCompleted = (data: deleteEpisodeMutation) => {
     const {
