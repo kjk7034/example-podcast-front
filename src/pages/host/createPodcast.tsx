@@ -41,7 +41,7 @@ export const CreatePodcast: React.FC = () => {
     if (actualFile) {
       formBody.append("file", actualFile);
       const { url } = await (
-        await fetch("http://localhost:4000/uploads/", {
+        await fetch("https://nuber-eats-backend-wise7034.herokuapp.com/uploads/", {
           method: "POST",
           body: formBody,
         })
