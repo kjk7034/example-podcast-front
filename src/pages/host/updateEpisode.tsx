@@ -81,7 +81,6 @@ export const UpdateEpisode: React.FC = () => {
   const handleBack = () => {
     history.goBack();
   };
-  console.log("data", data);
   React.useEffect(() => {
     if (!data || dataInit.current) {
       return;
